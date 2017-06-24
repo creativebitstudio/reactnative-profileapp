@@ -1,0 +1,45 @@
+body{
+    /*background: #4527A0;
+    text-align: center;*/
+}
+
+#main{
+    background: linear-gradient(rgba(106,48,147, 0.7), rgba(160,68,255, 0.7)), url("city.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1{
+    color: #fff;
+    /*margin-top: 240px;*/
+    /*font-size: 100px;*/
+    /*font-weight: bold;*/
+    /*font-family: 'Cabin Sketch', cursive;*/
+    /*font-family: 'Finger Paint', cursive;*/
+    /*font-family: 'Fredericka the Great', cursive;*/
+    /*font-family: 'Gloria Hallelujah', cursive;*/
+    /*font-family: 'Indie Flower', cursive;*/
+    /*font-family: 'Love Ya Like A Sister', cursive; option 2*/
+    /*font-family: 'Oregano', cursive; option 3*/
+    /*font-family: 'Rock Salt', cursive; current*/
+
+}
+
+/*
+font-family: 'Cabin Sketch', cursive;
+font-family: 'Chewy', cursive;
+font-family: 'Crafty Girls', cursive;
+font-family: 'Finger Paint', cursive;
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Kranky', cursive;
+font-family: 'Londrina Shadow', cursive;
+font-family: 'Love Ya Like A Sister', cursive;
+font-family: 'Modak', cursive;
+font-family: 'Oregano', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Rock Salt', cursive;
+font-family: 'Special Elite', cursive;
+*/
